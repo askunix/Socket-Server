@@ -5,4 +5,5 @@
 3、使用了epoll监听就绪文件描述符。
 4、使用了fastCGI技术。参考Nginx。
 5、支持通过PHP-FPM访问外部的.php文件。
-
+6、需要安装PHP-fpm支持并配置。
+7、需要PHP支持。
